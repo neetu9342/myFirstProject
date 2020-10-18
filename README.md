@@ -33,4 +33,5 @@ tell git command for server
 initial config
 only 1 time
 
-####### 
+###### git remote -v
+tell the remote url for the project
