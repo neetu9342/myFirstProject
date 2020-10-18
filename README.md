@@ -41,3 +41,6 @@ only 1 time
 
 ###### git remote -v
 tell the remote url for the project
+
+###### git pull
+take the latest code from server
