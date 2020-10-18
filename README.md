@@ -18,6 +18,12 @@ m : message
 ##### git branch 
 shows all  local branch
 
+###### git branch branchName
+create new branch locally
+
+##### git checkout branchName
+points to local branch branchName
+
 ##### git log 
 log of the commits  by user
 
